@@ -1,7 +1,8 @@
 # TestApp
-As close to a single file iOS app as you can get. 
-a copy of [QuickApp](https://github.com/ToddLa/TestApp) with a different name.
+As close to a single file iOS app as you can get.
 
+a copy of [QuickApp](https://github.com/ToddLa/TestApp) with a different name.
+ 
 ## Usage
 1. Copy `TestApp.xcodeproj` to a new directory.
 2. Open project, add a new Swift or ObjC file with a class named `MainViewController` or `TestViewController`
