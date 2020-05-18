@@ -1,2 +1,2 @@
 # TestApp
-copy of QuickApp with a different name, and Objective-C `TestViewController`
+copy of [QuickApp](https://github.com/ToddLa/TestApp) with a different name, and Objective-C `TestViewController`
